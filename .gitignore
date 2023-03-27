@@ -1,0 +1,6 @@
+/venv
+/.vscode
+/data
+/database
+/init.sql
+*.env
